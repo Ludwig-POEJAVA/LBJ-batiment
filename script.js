@@ -34,7 +34,7 @@ flag.removeChild(flag.firstChild);
 
 //my data
 let cadastre = [
-	{color:'#0000FF', name:'Les Bons Jouets, data:[{section:'zl', numero:383},{section:'zx', numero:313}]},
+	{color:'#0000FF', name:'Les Bons Jouets', data:[{section:'zl', numero:383},{section:'zx', numero:313}]},
 	{color:'#00FF00', name:'Clément', data:[{section:'zm', numero:188},
 											{section:'zm', numero:205},
 											{section:'zm', numero:207},
@@ -44,7 +44,7 @@ let cadastre = [
 											{section:'zm', numero:228},
 											{section:'zm', numero:239},
 											{section:'zm', numero:241},
-											{section:'zm', numero:255},
+											{section:'zm', numero:255}
 											]},
 	{color:'#FF0000', name:'Choix 1', data:[{section:'zm', numero:114}]},
 	{color:'#FF0000', name:'Choix 2', data:[{section:'zm', numero:250}]},
